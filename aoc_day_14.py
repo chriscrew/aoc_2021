@@ -1,6 +1,5 @@
 from aoc_helper import read_and_clean_file
 from collections import Counter
-from itertools import chain, zip_longest
 
 lines, line_count = read_and_clean_file(".\data\day_14_data.txt")
 
